@@ -18,7 +18,6 @@ The Color Visualizer is a simple React application that allows users to interact
 ## Getting Started
 
 1. Clone the repository:
-
-   ```bash
-  git clone https://github.com/insshubh/Color_Visualizer.git
-   cd color-visualizer ```
+```bash
+   git clone https://github.com/insshubh/Color_Visualizer.git
+   cd color-visualizer
